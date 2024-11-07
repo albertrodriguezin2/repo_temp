@@ -6,4 +6,4 @@ organizations:
   - name: IN2
     publicKey: 0x043512e6a54375ed3935606c17b27518765a232d9a9dc631178f8c9226f25e748da568f74c63b17682e3b04324975202b4e6dd0fa9afa3a5a1d92dbb2734a9c454
     url: http://desmos-node-a:8080
-    dlt_address: 0xc46260f39619AaeCc0Be1180b63DAe3568dfd439
+    dlt_address: 0x8448cf984208aBB5d2ea2fCF8C79B7366CD5195A

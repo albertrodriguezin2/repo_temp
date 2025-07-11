@@ -5,6 +5,5 @@ organizations:
     # bad -> dlt_address: 0x5cfb369D94C550432C401C6ca810f915d79d51823
   - name: IN2
     # good -> 
-    # dlt_address: 0x326e200F92537E7E51a1171f7ab47A10fE3192C6
-    # bad -> 
-    dlt_address: 0x326e200F92537E7E51a1171f7ab47A10fE3192C7
+    dlt_address: 0x326e200F92537E7E51a1171f7ab47A10fE3192C6
+    # bad -> dlt_address: 0x326e200F92537E7E51a1171f7ab47A10fE3192C7
